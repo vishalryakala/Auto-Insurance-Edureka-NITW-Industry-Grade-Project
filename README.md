@@ -2,11 +2,11 @@
 
 This Project contains Auto Insurance Project as a Industry Grade Project for Edureka NITW AI ML PG Program
 
-*Aim of the Project:-*
+# Aim of the Project:-
 The aim of the project is to build a Machine Learning Model to predict whether an owner will initiate an auto insurance claim in the next year.
 
 
-*Use Cases:-*
+# Use Cases:-
 The model shall mainly support the following use cases:
 1. Conquering Market Share: Capture market share by lowering the prices of the premium for the customers, who are least likely to claim.
 2. Risk Management: Charge the right premium from the customer, who is likely to claim insurance in the coming year
